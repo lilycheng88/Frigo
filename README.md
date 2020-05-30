@@ -1,2 +1,2 @@
 # Frigo
-Fridge Inventory App Created during Code Day's 2020 Winter Hackathon
+Fridge Inventory App Created for APCS final
