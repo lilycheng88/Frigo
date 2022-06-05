@@ -1,2 +1,2 @@
 # Frigo
-Fridge Inventory App Created for APCS final
+Fridge Inventory App Created for CodeDay
